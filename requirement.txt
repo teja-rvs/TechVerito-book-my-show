@@ -1,0 +1,4 @@
+1. movie has 3 screens (s1, s2, s3)
+2. screen has 3 categoreis.
+3. categoreis has different prices
+4. user need to able to select the screen -> select category -> select seats -> show bill 
